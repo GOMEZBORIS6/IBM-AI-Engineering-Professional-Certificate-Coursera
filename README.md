@@ -20,7 +20,7 @@ Acquérir des compétences concrètes et opérationnelles pour construire, entra
 
 | # | Intitulé du cours | Durée |
 |---|-------------------|-------|
-| 1 | Machine Learning with Python | 20h |
+| 1 | [Machine Learning with Python](https://github.com/GOMEZBORIS6/IBM_Coursera_Machine_Learning_with_Python) | 20h |
 | 2 | Intro to Deep Learning & Neural Networks with Keras | 10h |
 | 3 | Deep Learning with Keras and Tensorflow | 23h |
 | 4 | Intro to Neural Networks and PyTorch | 17h |
