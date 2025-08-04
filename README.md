@@ -66,7 +66,7 @@ Le dépôt inclut :
 ---
 ## 📜 Certification
 
-Certification obtenue en 2024, vérifiable sur [**Coursera**](https://www.coursera.org/) et [**Credly**](https://www.credly.com/users/jean-baptiste-boris-gomez)
+Certification obtenue en Août 2025, vérifiable sur [**Coursera**](https://www.coursera.org/) et [**Credly**](https://www.credly.com/users/jean-baptiste-boris-gomez)
 
 ---
 
